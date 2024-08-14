@@ -1,1 +1,2 @@
 # Financial-analytics
+Developed a financial analytics project using Python, focusing on the analysis of market capitalization and sales data for top companies. The project involved data cleaning, exploratory data analysis (EDA), and visualization using libraries like Pandas, Matplotlib, and Seaborn. Key insights included identifying the top 10 companies by market capitalization and analyzing the Market Cap to Sales Ratio distribution.
